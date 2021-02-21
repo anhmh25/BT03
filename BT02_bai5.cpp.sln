@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BT02_bai5.cpp", "BT02_bai5.cpp\BT02_bai5.cpp.vcxproj", "{931E5261-3484-44C2-BCB3-3FB3EB0F6B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931E5261-3484-44C2-BCB3-3FB3EB0F6B6B}.Debug|x64.ActiveCfg = Debug|x64
+		{931E5261-3484-44C2-BCB3-3FB3EB0F6B6B}.Debug|x64.Build.0 = Debug|x64
+		{931E5261-3484-44C2-BCB3-3FB3EB0F6B6B}.Debug|x86.ActiveCfg = Debug|Win32
+		{931E5261-3484-44C2-BCB3-3FB3EB0F6B6B}.Debug|x86.Build.0 = Debug|Win32
+		{931E5261-3484-44C2-BCB3-3FB3EB0F6B6B}.Release|x64.ActiveCfg = Release|x64
+		{931E5261-3484-44C2-BCB3-3FB3EB0F6B6B}.Release|x64.Build.0 = Release|x64
+		{931E5261-3484-44C2-BCB3-3FB3EB0F6B6B}.Release|x86.ActiveCfg = Release|Win32
+		{931E5261-3484-44C2-BCB3-3FB3EB0F6B6B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C259656-79BD-4C68-A39E-CC66CE23AF98}
+	EndGlobalSection
+EndGlobal
